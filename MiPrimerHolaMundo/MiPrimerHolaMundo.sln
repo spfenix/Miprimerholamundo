@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiPrimerHolaMundo", "MiPrimerHolaMundo.csproj", "{08E3DFBA-C1E4-435B-9159-A46F91C5DA16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08E3DFBA-C1E4-435B-9159-A46F91C5DA16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08E3DFBA-C1E4-435B-9159-A46F91C5DA16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08E3DFBA-C1E4-435B-9159-A46F91C5DA16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08E3DFBA-C1E4-435B-9159-A46F91C5DA16}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {963AAC65-3CE5-455B-B144-053F4BA0AE03}
+	EndGlobalSection
+EndGlobal
